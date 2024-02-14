@@ -1,7 +1,5 @@
 ### Hi there 👋
 hello! this is under construction : 3
-![SAM_1187](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/87294aea-7d97-45ae-8708-d5a76a109912)
-
 
 <!--
 **FaZeDrug/FaZeDrug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
