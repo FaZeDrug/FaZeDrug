@@ -1,6 +1,6 @@
-### Hi there 👋![image](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/73de7c84-79f1-4157-a6ce-a8da2c6b999f)
+### Hi there 👋![image](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/73de7c84-79f1-4157-a6ce-a8da2c6b999f) [korilaheartgif](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/1bf38f46-8a98-4143-a4c0-491757c9b963) ![rilaheartgif](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/1d5f5141-1089-4fb6-9e47-f802174f42cd)
 
-hello! this is under construction : 3![korilaheartgif](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/1bf38f46-8a98-4143-a4c0-491757c9b963)
+hello! this is under construction : 3!
 
 
 <!--
