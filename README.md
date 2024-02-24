@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋![image](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/73de7c84-79f1-4157-a6ce-a8da2c6b999f)
+
 hello! this is under construction : 3
 
 <!--
