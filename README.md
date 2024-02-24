@@ -7,6 +7,13 @@ my name is natasha!
 
 i am a second year computer science student.
 
+i have experience in...
+javascript
+python
+java
+c
+c++
+
 
 <!--
 
