@@ -1,4 +1,4 @@
-### hi there! ![korilaheartgif](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/1bf38f46-8a98-4143-a4c0-491757c9b963) ![rilaheartgif](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/1d5f5141-1089-4fb6-9e47-f802174f42cd) ![cake border](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/baa34f03-4aef-4007-a1db-15d585b55ef6) ![cake border](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/baa34f03-4aef-4007-a1db-15d585b55ef6) ![cake border](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/baa34f03-4aef-4007-a1db-15d585b55ef6)
+### hi there! ![korilaheartgif](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/1bf38f46-8a98-4143-a4c0-491757c9b963) ![rilaheartgif](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/1d5f5141-1089-4fb6-9e47-f802174f42cd) ![cake border](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/baa34f03-4aef-4007-a1db-15d585b55ef6) ![cake border](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/baa34f03-4aef-4007-a1db-15d585b55ef6)
 
 my name is natasha!
 
