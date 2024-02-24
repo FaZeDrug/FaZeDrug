@@ -3,9 +3,9 @@
 ![cake border](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/baa34f03-4aef-4007-a1db-15d585b55ef6) ![cake border](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/baa34f03-4aef-4007-a1db-15d585b55ef6) ![cake border](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/baa34f03-4aef-4007-a1db-15d585b55ef6)
 
 
+my name is natasha!
 
-
-hello! this is under construction : 3!
+i am a second year computer science student.
 
 
 <!--
