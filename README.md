@@ -21,6 +21,9 @@ Image Sources:
 + rilakkuma favicons: https://cutekawaiiresources.wordpress.com/2018/04/17/rilakkuma-bullet-points-favicons/
 + dividers: https://pix5ls.tumblr.com/dividers
 
+Icon Sources:
++ diff skills: https://skillicons.dev/ (found on ouckah's github!)
+
 **FaZeDrug/FaZeDrug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
