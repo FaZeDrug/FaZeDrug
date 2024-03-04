@@ -2,6 +2,8 @@
 
 ![cake border](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/baa34f03-4aef-4007-a1db-15d585b55ef6) ![cake border](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/baa34f03-4aef-4007-a1db-15d585b55ef6) ![cake border](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/baa34f03-4aef-4007-a1db-15d585b55ef6)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolate&size=30&pause=1000&color=FFC7D9&center=true&vCenter=true&random=false&width=435&lines=Computer+Science)](https://git.io/typing-svg)
+
 my name is natasha!
 
 i am a second year computer science student.
@@ -23,6 +25,9 @@ Image Sources:
 
 Icon Sources:
 + diff skills: https://skillicons.dev/ (found on ouckah's github!)
+
+Other stuff
++ stole the typing svg from nishant balaji https://github.com/DenverCoder1/readme-typing-svg
 
 **FaZeDrug/FaZeDrug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
