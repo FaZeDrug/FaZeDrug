@@ -2,7 +2,7 @@
 
 ![cake border](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/baa34f03-4aef-4007-a1db-15d585b55ef6) ![cake border](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/baa34f03-4aef-4007-a1db-15d585b55ef6) ![cake border](https://github.com/FaZeDrug/FaZeDrug/assets/65751667/baa34f03-4aef-4007-a1db-15d585b55ef6)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolate&size=30&pause=1000&color=FFC7D9&center=true&vCenter=true&random=false&width=435&lines=Computer+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolate&duration=4000&pause=1000&color=FFC7D9&vCenter=true&random=false&width=435&lines=computer+science+!+%F0%90%99%9A+%E2%80%A7%E2%82%8A%CB%9A+%E2%8B%85;aspiring+software+engineer%E2%81%BA%CB%9A%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9%E2%82%8A;%E6%84%9B%E4%B9%8B%E6%AC%B2%E5%9F%BA%E7%94%9F%E2%80%A7%E2%82%8A%CB%9A%E2%9D%80%E0%BC%89%E2%80%A7%E2%82%8A%CB%9A.)](https://git.io/typing-svg)
 
 my name is natasha!
 
