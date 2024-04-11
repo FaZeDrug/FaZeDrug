@@ -8,7 +8,7 @@ my name is natasha!
 
 i am a second year computer science student.
 
-pls check out my [website](fazedrug.github.io)for more info about me!
+pls check out my [website](fazedrug.github.io) for more info about me!
 
 <!--
 i have experience in...
