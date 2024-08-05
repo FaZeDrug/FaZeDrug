@@ -6,7 +6,7 @@
 
 my name is natasha!
 
-i am a second year computer science student.
+i am a third year computer science student.
 
 pls check out my [website](https://fazedrug.github.io/) for more info about me!
 
