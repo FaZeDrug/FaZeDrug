@@ -6,7 +6,7 @@
 
 my name is natasha!
 
-i am a third year computer science student.
+i am a third year computer science student, seeking a career in software engineering upon graduating.
 
 pls check out my [website](https://fazedrug.github.io/) for more info about me!
 
