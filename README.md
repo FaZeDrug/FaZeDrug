@@ -8,7 +8,7 @@ my name is natasha tran!
 
 i am a third year computer science student at uc san diego.
 
-pls check out my [website](https://natashatran.dev/) for more info about me!
+pls check out my [website](https://natashatran.netlify.app) for more info about me!
 
 i have experience in `javascript`, `python`, `java`, `c`, and `c++`.
 
