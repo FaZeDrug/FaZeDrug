@@ -10,7 +10,7 @@ i am a third year computer science student at uc san diego.
 
 pls check out my [website](https://natashatran.dev/) for more info about me!
 
-i have experience in...
+i have experience in </b>
 javascript
 python
 java
