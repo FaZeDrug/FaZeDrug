@@ -6,7 +6,7 @@
 
 my name is natasha tran!
 
-i am a fourth-year computer science student at uc san diego + cofounder @ linkra.ai
+i am a fourth-year computer science student at uc san diego
 
 pls check out my [website](https://natashatran.netlify.app) for more info about me!
 
