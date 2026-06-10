@@ -8,7 +8,7 @@ my name is natasha tran! i'm an aspiring software engineer <3
 
 i am a fourth-year computer science student at uc san diego
 
-currently @ owaves (software qa intern), prev @ base86 (sotfware qa intern)
+prev @ owaves (software qa intern), prev @ base86 (sotfware qa intern)
 
 pls check out my [website](https://natashatran.netlify.app) for more info about me!
 
