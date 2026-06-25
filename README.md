@@ -6,7 +6,7 @@
 
 my name is natasha tran! i'm an aspiring software engineer <3
 
-i am a fourth-year computer science student at uc san diego
+i graduated in 2026 from uc san diego with my degree in computer science
 
 prev @ owaves (software qa intern), prev @ base86 (sotfware qa intern)
 
