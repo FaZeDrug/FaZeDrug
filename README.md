@@ -12,9 +12,6 @@ prev @ owaves (software qa intern), prev @ base86 (sotfware qa intern)
 
 pls check out my [website](https://natashatran.netlify.app) for more info about me!
 
-i have experience in `javascript`, `python`, `java`, `c`, and `c++`.
-
-
 <!--
 
 Image Sources:
