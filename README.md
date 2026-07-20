@@ -10,7 +10,7 @@ i graduated in 2026 from uc san diego with my degree in computer science
 
 prev @ owaves (software qa intern), prev @ base86 (sotfware qa intern)
 
-pls check out my [website](https://natashatran.netlify.app) for more info about me!
+pls check out my [website](https://natashatran.dev) for more info about me!
 
 <!--
 
