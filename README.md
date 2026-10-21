@@ -12,6 +12,8 @@ prev @ owaves (software qa intern), prev @ base86 (sotfware qa intern)
 
 pls check out my [website](https://natashatran.dev) for more info about me!
 
+if you've ever used my software and want to support me, donate [here](https://ko-fi.com/pocari2k) <3
+
 <!--
 
 Image Sources:
