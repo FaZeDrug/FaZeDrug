@@ -9,9 +9,7 @@
 
 my name is natasha tran! i'm an aspiring software engineer <3
 
-cs @ uc san diego '26
-
-https://natashatran.dev
+cs @ uc san diego '26 — https://natashatran.dev
 
 if you've ever used my software and want to support me, donate [here](https://ko-fi.com/pocari2k) <3
 
