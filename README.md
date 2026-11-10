@@ -7,7 +7,7 @@
 
 -->
 
-my name is natasha tran! i'm an aspiring software engineer <3
+my name is natasha tran! i'm an aspiring software engineer
 
 cs @ uc san diego '26 — https://natashatran.dev
 
